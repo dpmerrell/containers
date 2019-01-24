@@ -2,5 +2,5 @@ Bootstrap:docker
 From:ubuntu:latest
 
 %runscript
-echo "Hello, I am a container built by David!"
+echo "Hello, I am a container built by David Merrell!"
 
